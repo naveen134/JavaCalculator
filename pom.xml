@@ -23,9 +23,9 @@
    <build>
       <plugins>
       <plugin>
-        <groupId>org.codehaus.mojo</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>3.0.2</version>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.0.5</version>
       </plugin>
          <plugin>
             <!-- Building an executable jar -->
